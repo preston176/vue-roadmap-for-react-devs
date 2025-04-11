@@ -23,8 +23,9 @@ Welcome! This is a carefully crafted roadmap to help React developers transition
 **Why:** Great for mastering template syntax, conditional rendering, props, slots, and lifecycle hooks.
 
 ### 📚 Resources:
-- 📺 [Vue 3 Basics Playlist - Codevolution](https://youtube.com/playlist?list=PLC3y8-rFHvwg2RBz6UplKTGIXREj9dV0G)
+
 - 📘 [Vue 3 Docs – Essentials](https://vuejs.org/guide/introduction.html)
+- 📺 [Vue 3 Basics Playlist - Codevolution](https://www.youtube.com/watch?v=ccsz9FRy-nk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f)
 - 📘 [Reactivity Fundamentals](https://vuejs.org/guide/essentials/reactivity-fundamentals.html)
 
 ---
@@ -39,7 +40,7 @@ Welcome! This is a carefully crafted roadmap to help React developers transition
 **Why:** Teaches routing, props, dynamic components, and syncing state across views.
 
 ### 📚 Resources:
-- 📺 [Vue Router Tutorial - Codevolution](https://www.youtube.com/watch?v=1rLWVZVWfdY)
+- 📺 [Vue 3 Routing - Beginner to Advanced](https://www.youtube.com/watch?v=PBqQO-keR1s&pp=ygUKdnVlIHJvdXRlcg%3D%3D)
 - 📘 [Vue Router Docs](https://router.vuejs.org/)
 - 📘 [Vue Event Handling](https://vuejs.org/guide/essentials/event-handling.html)
 
@@ -55,7 +56,7 @@ Welcome! This is a carefully crafted roadmap to help React developers transition
 **Why:** Teaches state design, persistence, computed properties, and async actions.
 
 ### 📚 Resources:
-- 📺 [Pinia State Management - Codevolution](https://www.youtube.com/watch?v=d4mU6FkZN2Y)
+- 📺 [Pinia State Management](https://www.youtube.com/watch?v=zPeA1q00A54&pp=ygUWcGluaWEgc3RhdGUgbWFuYWdlbWVudA%3D%3D)
 - 📘 [Pinia Docs](https://pinia.vuejs.org/introduction.html)
 - 📘 [Async Actions in Pinia](https://pinia.vuejs.org/core-concepts/actions.html)
 
@@ -71,7 +72,7 @@ Welcome! This is a carefully crafted roadmap to help React developers transition
 **Why:** Builds understanding of Vue transitions, animation lifecycle, and DOM interactions.
 
 ### 📚 Resources:
-- 📺 [Vue Transitions Tutorial - Codevolution](https://www.youtube.com/watch?v=ZkN3dG7DcjY)
+- 📺 [Vue Transitions Tutorial - YouTube](https://www.youtube.com/watch?v=RIApQjn9fvw&list=PL4cUxeGkcC9ghm7-iTfS9n468Kp7l9Ipu)
 - 📘 [Vue Transitions & Animations](https://vuejs.org/guide/built-ins/transition.html)
 - 📘 [Vue + GSAP Example](https://codepen.io/GreenSock/pen/RwWgQwG)
 
@@ -87,7 +88,7 @@ Welcome! This is a carefully crafted roadmap to help React developers transition
 **Why:** Learn to test Vue components, simulate events, and automate testing flows.
 
 ### 📚 Resources:
-- 📺 [Vue Unit Testing with Vitest](https://www.youtube.com/watch?v=ZmnCnQpjEak)
+- 📺 [Vue Unit Testing with Vitest](https://www.youtube.com/watch?v=DT0p2EFTm9U&pp=ygUQdnVlIHVuaXQgdGVzdGluZw%3D%3D)
 - 📘 [Vitest Docs](https://vitest.dev/guide/)
 - 📘 [Vue Test Utils Docs](https://test-utils.vuejs.org/)
 
@@ -103,7 +104,7 @@ Welcome! This is a carefully crafted roadmap to help React developers transition
 **Why:** Learn fullstack development with Vue/Nuxt, optimized performance, SEO best practices.
 
 ### 📚 Resources:
-- 📺 [Nuxt 3 Full Course - Codevolution](https://www.youtube.com/watch?v=iv7xiuK0gGU)
+- 📺 [Nuxt 3 For Beginners - FreeCodeCamp](https://www.youtube.com/watch?v=fTPCKnZZ2dk&pp=ygUfbnV4dCAzIGZ1bGwgY291cnNlIGNvZGV2b2x1dGlvbg%3D%3D)
 - 📘 [Nuxt 3 Docs](https://nuxt.com/docs)
 - 📘 [Nuxt Content Docs](https://content.nuxt.com/)
 
@@ -139,7 +140,6 @@ Welcome! This is a carefully crafted roadmap to help React developers transition
 - 📘 [Vue 3 Official Docs](https://vuejs.org/guide/introduction.html)
 - 📘 [Pinia Docs](https://pinia.vuejs.org/)
 - 📘 [Nuxt 3 Docs](https://nuxt.com/docs)
-- 📺 [All Vue Playlists by Codevolution](https://www.youtube.com/@Codevolution/playlists)
 - 🎓 [Vue School](https://vueschool.io/)
 
 ---
