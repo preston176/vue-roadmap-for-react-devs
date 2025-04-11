@@ -100,14 +100,6 @@ Welcome! This is a carefully crafted roadmap to help React developers transition
 | **Volar** | VSCode extension for Vue with TypeScript |
 | **Vitest** | Testing framework like Jest but optimized for Vite |
 
----
-
-## ⭐️ Star-worthy Tips
-
-- Document your journey for each project: include screenshots, lessons, challenges, and what you learned.
-- Make a clean README for every project. Include `Getting Started`, `Tech Stack`, and a `Demo` if possible.
-- Share your GitHub repo on Dev.to, Hashnode, or LinkedIn.
-- Use good commit messages and PR descriptions if open-sourcing.
 
 ---
 
